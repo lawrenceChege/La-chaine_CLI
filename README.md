@@ -29,7 +29,7 @@ Enable users to:
 3.  Add a comment
 4.  Edit their own comment
 
-## # Moderator
+### Moderator
 
 1.  login and log out
 2.  Have their LastLoggedInAT saved 
