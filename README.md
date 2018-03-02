@@ -5,6 +5,8 @@ A CLI application where users have different roles as normal user, moderator and
 
 1. Python version 3.6 or higher
 2. virtual environment creator of choice 
+3. Docopt
+4. Click
 
 ## Install
 
